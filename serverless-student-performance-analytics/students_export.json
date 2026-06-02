@@ -1,0 +1,2153 @@
+[
+    {
+        "weekly_self_study_hours": "7.5",
+        "grade": "D",
+        "attendance_percentage": "76.3",
+        "total_score": "54.2",
+        "performance_category": "Poor",
+        "student_id": "228",
+        "class_participation": "6.5"
+    },
+    {
+        "weekly_self_study_hours": "15",
+        "grade": "A",
+        "attendance_percentage": "80.7",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "99",
+        "class_participation": "6"
+    },
+    {
+        "weekly_self_study_hours": "7.3",
+        "grade": "C",
+        "attendance_percentage": "68.3",
+        "total_score": "67.1",
+        "performance_category": "Average",
+        "student_id": "63",
+        "class_participation": "6.9"
+    },
+    {
+        "weekly_self_study_hours": "16.6",
+        "grade": "A",
+        "attendance_percentage": "70.8",
+        "total_score": "95",
+        "performance_category": "Excellent",
+        "student_id": "141",
+        "class_participation": "7"
+    },
+    {
+        "weekly_self_study_hours": "18.6",
+        "grade": "A",
+        "attendance_percentage": "98.2",
+        "total_score": "90.5",
+        "performance_category": "Excellent",
+        "student_id": "207",
+        "class_participation": "1"
+    },
+    {
+        "weekly_self_study_hours": "16.2",
+        "grade": "B",
+        "attendance_percentage": "81.8",
+        "total_score": "80.5",
+        "performance_category": "Good",
+        "student_id": "195",
+        "class_participation": "4.7"
+    },
+    {
+        "weekly_self_study_hours": "21.8",
+        "grade": "A",
+        "attendance_percentage": "92.7",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "92",
+        "class_participation": "7.9"
+    },
+    {
+        "weekly_self_study_hours": "20.3",
+        "grade": "A",
+        "attendance_percentage": "96.1",
+        "total_score": "95.4",
+        "performance_category": "Excellent",
+        "student_id": "120",
+        "class_participation": "7.7"
+    },
+    {
+        "weekly_self_study_hours": "9.9",
+        "grade": "B",
+        "attendance_percentage": "94.1",
+        "total_score": "79",
+        "performance_category": "Good",
+        "student_id": "231",
+        "class_participation": "4.5"
+    },
+    {
+        "weekly_self_study_hours": "28.3",
+        "grade": "A",
+        "attendance_percentage": "87.7",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "168",
+        "class_participation": "3.9"
+    },
+    {
+        "weekly_self_study_hours": "6.6",
+        "grade": "C",
+        "attendance_percentage": "85.3",
+        "total_score": "69.9",
+        "performance_category": "Average",
+        "student_id": "64",
+        "class_participation": "3.4"
+    },
+    {
+        "weekly_self_study_hours": "12.6",
+        "grade": "C",
+        "attendance_percentage": "73.3",
+        "total_score": "68.1",
+        "performance_category": "Average",
+        "student_id": "103",
+        "class_participation": "4.5"
+    },
+    {
+        "weekly_self_study_hours": "12.1",
+        "grade": "B",
+        "attendance_percentage": "94.3",
+        "total_score": "73.4",
+        "performance_category": "Average",
+        "student_id": "102",
+        "class_participation": "2.2"
+    },
+    {
+        "weekly_self_study_hours": "22.4",
+        "grade": "A",
+        "attendance_percentage": "77.5",
+        "total_score": "99.4",
+        "performance_category": "Excellent",
+        "student_id": "204",
+        "class_participation": "5.1"
+    },
+    {
+        "weekly_self_study_hours": "6.5",
+        "grade": "C",
+        "attendance_percentage": "86.4",
+        "total_score": "61.6",
+        "performance_category": "Average",
+        "student_id": "36",
+        "class_participation": "8.2"
+    },
+    {
+        "weekly_self_study_hours": "17.4",
+        "grade": "B",
+        "attendance_percentage": "79.9",
+        "total_score": "71",
+        "performance_category": "Average",
+        "student_id": "49",
+        "class_participation": "7.6"
+    },
+    {
+        "weekly_self_study_hours": "20.8",
+        "grade": "A",
+        "attendance_percentage": "77.4",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "167",
+        "class_participation": "3.9"
+    },
+    {
+        "weekly_self_study_hours": "6.3",
+        "grade": "C",
+        "attendance_percentage": "89.3",
+        "total_score": "58.9",
+        "performance_category": "Poor",
+        "student_id": "147",
+        "class_participation": "5.6"
+    },
+    {
+        "weekly_self_study_hours": "14.9",
+        "grade": "B",
+        "attendance_percentage": "68.4",
+        "total_score": "82.6",
+        "performance_category": "Good",
+        "student_id": "33",
+        "class_participation": "7.2"
+    },
+    {
+        "weekly_self_study_hours": "20",
+        "grade": "A",
+        "attendance_percentage": "84.5",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "186",
+        "class_participation": "3.8"
+    },
+    {
+        "weekly_self_study_hours": "13.4",
+        "grade": "B",
+        "attendance_percentage": "93.5",
+        "total_score": "79",
+        "performance_category": "Good",
+        "student_id": "22",
+        "class_participation": "9.4"
+    },
+    {
+        "weekly_self_study_hours": "9.3",
+        "grade": "C",
+        "attendance_percentage": "88.5",
+        "total_score": "66.2",
+        "performance_category": "Average",
+        "student_id": "172",
+        "class_participation": "8.7"
+    },
+    {
+        "weekly_self_study_hours": "20.7",
+        "grade": "A",
+        "attendance_percentage": "100",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "139",
+        "class_participation": "6.1"
+    },
+    {
+        "weekly_self_study_hours": "17.2",
+        "grade": "A",
+        "attendance_percentage": "74",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "18",
+        "class_participation": "8.1"
+    },
+    {
+        "weekly_self_study_hours": "2.7",
+        "grade": "D",
+        "attendance_percentage": "77.5",
+        "total_score": "51.1",
+        "performance_category": "Poor",
+        "student_id": "50",
+        "class_participation": "6.4"
+    },
+    {
+        "weekly_self_study_hours": "11.9",
+        "grade": "B",
+        "attendance_percentage": "92.4",
+        "total_score": "70.1",
+        "performance_category": "Average",
+        "student_id": "191",
+        "class_participation": "9.6"
+    },
+    {
+        "weekly_self_study_hours": "17.4",
+        "grade": "A",
+        "attendance_percentage": "93.7",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "174",
+        "class_participation": "6.9"
+    },
+    {
+        "weekly_self_study_hours": "16.8",
+        "grade": "A",
+        "attendance_percentage": "81.5",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "109",
+        "class_participation": "4.9"
+    },
+    {
+        "weekly_self_study_hours": "10",
+        "grade": "A",
+        "attendance_percentage": "90.3",
+        "total_score": "92.4",
+        "performance_category": "Excellent",
+        "student_id": "156",
+        "class_participation": "5.5"
+    },
+    {
+        "weekly_self_study_hours": "19.8",
+        "grade": "A",
+        "attendance_percentage": "84.4",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "230",
+        "class_participation": "7.6"
+    },
+    {
+        "weekly_self_study_hours": "11.1",
+        "grade": "B",
+        "attendance_percentage": "87.4",
+        "total_score": "73.5",
+        "performance_category": "Average",
+        "student_id": "16",
+        "class_participation": "3.9"
+    },
+    {
+        "weekly_self_study_hours": "16.4",
+        "grade": "B",
+        "attendance_percentage": "76.5",
+        "total_score": "84",
+        "performance_category": "Good",
+        "student_id": "40",
+        "class_participation": "2.6"
+    },
+    {
+        "weekly_self_study_hours": "18.6",
+        "grade": "A",
+        "attendance_percentage": "80.6",
+        "total_score": "93.9",
+        "performance_category": "Excellent",
+        "student_id": "90",
+        "class_participation": "4.4"
+    },
+    {
+        "weekly_self_study_hours": "14",
+        "grade": "B",
+        "attendance_percentage": "80",
+        "total_score": "83.9",
+        "performance_category": "Good",
+        "student_id": "2",
+        "class_participation": "2.5"
+    },
+    {
+        "weekly_self_study_hours": "0.8",
+        "grade": "D",
+        "attendance_percentage": "91",
+        "total_score": "53",
+        "performance_category": "Poor",
+        "student_id": "237",
+        "class_participation": "4.2"
+    },
+    {
+        "weekly_self_study_hours": "8.6",
+        "grade": "B",
+        "attendance_percentage": "80.4",
+        "total_score": "70.6",
+        "performance_category": "Average",
+        "student_id": "135",
+        "class_participation": "6.1"
+    },
+    {
+        "weekly_self_study_hours": "9.4",
+        "grade": "A",
+        "attendance_percentage": "72.5",
+        "total_score": "86.1",
+        "performance_category": "Good",
+        "student_id": "104",
+        "class_participation": "5.4"
+    },
+    {
+        "weekly_self_study_hours": "16.7",
+        "grade": "A",
+        "attendance_percentage": "77.9",
+        "total_score": "95.2",
+        "performance_category": "Excellent",
+        "student_id": "13",
+        "class_participation": "2.5"
+    },
+    {
+        "weekly_self_study_hours": "20.5",
+        "grade": "A",
+        "attendance_percentage": "79.3",
+        "total_score": "92.1",
+        "performance_category": "Excellent",
+        "student_id": "121",
+        "class_participation": "8.2"
+    },
+    {
+        "weekly_self_study_hours": "16.1",
+        "grade": "A",
+        "attendance_percentage": "82.7",
+        "total_score": "93.9",
+        "performance_category": "Excellent",
+        "student_id": "198",
+        "class_participation": "6.2"
+    },
+    {
+        "weekly_self_study_hours": "19.3",
+        "grade": "A",
+        "attendance_percentage": "77.7",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "54",
+        "class_participation": "8.2"
+    },
+    {
+        "weekly_self_study_hours": "9.1",
+        "grade": "C",
+        "attendance_percentage": "85.6",
+        "total_score": "58.2",
+        "performance_category": "Poor",
+        "student_id": "189",
+        "class_participation": "5.6"
+    },
+    {
+        "weekly_self_study_hours": "15.6",
+        "grade": "A",
+        "attendance_percentage": "100",
+        "total_score": "91.7",
+        "performance_category": "Excellent",
+        "student_id": "79",
+        "class_participation": "6.1"
+    },
+    {
+        "weekly_self_study_hours": "20.4",
+        "grade": "A",
+        "attendance_percentage": "100",
+        "total_score": "96.1",
+        "performance_category": "Excellent",
+        "student_id": "8",
+        "class_participation": "4"
+    },
+    {
+        "weekly_self_study_hours": "24.5",
+        "grade": "A",
+        "attendance_percentage": "82",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "66",
+        "class_participation": "8.4"
+    },
+    {
+        "weekly_self_study_hours": "9.7",
+        "grade": "B",
+        "attendance_percentage": "80.5",
+        "total_score": "72.9",
+        "performance_category": "Average",
+        "student_id": "170",
+        "class_participation": "9.9"
+    },
+    {
+        "weekly_self_study_hours": "16.2",
+        "grade": "A",
+        "attendance_percentage": "100",
+        "total_score": "93.6",
+        "performance_category": "Excellent",
+        "student_id": "108",
+        "class_participation": "5"
+    },
+    {
+        "weekly_self_study_hours": "6.3",
+        "grade": "D",
+        "attendance_percentage": "75.7",
+        "total_score": "44.1",
+        "performance_category": "Poor",
+        "student_id": "194",
+        "class_participation": "4.1"
+    },
+    {
+        "weekly_self_study_hours": "13.7",
+        "grade": "B",
+        "attendance_percentage": "93.3",
+        "total_score": "84.2",
+        "performance_category": "Good",
+        "student_id": "115",
+        "class_participation": "5.3"
+    },
+    {
+        "weekly_self_study_hours": "4.1",
+        "grade": "D",
+        "attendance_percentage": "92.4",
+        "total_score": "50.6",
+        "performance_category": "Poor",
+        "student_id": "131",
+        "class_participation": "2.5"
+    },
+    {
+        "weekly_self_study_hours": "22.4",
+        "grade": "A",
+        "attendance_percentage": "85.9",
+        "total_score": "90.3",
+        "performance_category": "Excellent",
+        "student_id": "48",
+        "class_participation": "5.8"
+    },
+    {
+        "weekly_self_study_hours": "24.1",
+        "grade": "A",
+        "attendance_percentage": "86.1",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "142",
+        "class_participation": "4.2"
+    },
+    {
+        "weekly_self_study_hours": "11.7",
+        "grade": "C",
+        "attendance_percentage": "100",
+        "total_score": "69.8",
+        "performance_category": "Average",
+        "student_id": "9",
+        "class_participation": "8.2"
+    },
+    {
+        "weekly_self_study_hours": "6.8",
+        "grade": "B",
+        "attendance_percentage": "70.7",
+        "total_score": "73.2",
+        "performance_category": "Average",
+        "student_id": "118",
+        "class_participation": "6.4"
+    },
+    {
+        "weekly_self_study_hours": "17.3",
+        "grade": "A",
+        "attendance_percentage": "99",
+        "total_score": "89.5",
+        "performance_category": "Good",
+        "student_id": "59",
+        "class_participation": "6.9"
+    },
+    {
+        "weekly_self_study_hours": "1.9",
+        "grade": "D",
+        "attendance_percentage": "78.8",
+        "total_score": "46.4",
+        "performance_category": "Poor",
+        "student_id": "222",
+        "class_participation": "10"
+    },
+    {
+        "weekly_self_study_hours": "17.8",
+        "grade": "B",
+        "attendance_percentage": "74.7",
+        "total_score": "77.7",
+        "performance_category": "Good",
+        "student_id": "106",
+        "class_participation": "4.6"
+    },
+    {
+        "weekly_self_study_hours": "13.3",
+        "grade": "B",
+        "attendance_percentage": "83.4",
+        "total_score": "72.2",
+        "performance_category": "Average",
+        "student_id": "169",
+        "class_participation": "7.8"
+    },
+    {
+        "weekly_self_study_hours": "14.5",
+        "grade": "A",
+        "attendance_percentage": "82.3",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "110",
+        "class_participation": "3.9"
+    },
+    {
+        "weekly_self_study_hours": "18.5",
+        "grade": "A",
+        "attendance_percentage": "95.6",
+        "total_score": "97.9",
+        "performance_category": "Excellent",
+        "student_id": "1",
+        "class_participation": "3.8"
+    },
+    {
+        "weekly_self_study_hours": "18.9",
+        "grade": "A",
+        "attendance_percentage": "82.4",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "202",
+        "class_participation": "5.8"
+    },
+    {
+        "weekly_self_study_hours": "25.8",
+        "grade": "A",
+        "attendance_percentage": "77.7",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "136",
+        "class_participation": "6.9"
+    },
+    {
+        "weekly_self_study_hours": "17.1",
+        "grade": "A",
+        "attendance_percentage": "77.8",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "116",
+        "class_participation": "9.3"
+    },
+    {
+        "weekly_self_study_hours": "10.8",
+        "grade": "B",
+        "attendance_percentage": "76.6",
+        "total_score": "77.4",
+        "performance_category": "Good",
+        "student_id": "31",
+        "class_participation": "5"
+    },
+    {
+        "weekly_self_study_hours": "34",
+        "grade": "A",
+        "attendance_percentage": "100",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "180",
+        "class_participation": "0.6"
+    },
+    {
+        "weekly_self_study_hours": "7.6",
+        "grade": "A",
+        "attendance_percentage": "77.9",
+        "total_score": "92.6",
+        "performance_category": "Excellent",
+        "student_id": "133",
+        "class_participation": "4.6"
+    },
+    {
+        "weekly_self_study_hours": "1.1",
+        "grade": "D",
+        "attendance_percentage": "81.4",
+        "total_score": "54.6",
+        "performance_category": "Poor",
+        "student_id": "80",
+        "class_participation": "4.3"
+    },
+    {
+        "weekly_self_study_hours": "13.4",
+        "grade": "A",
+        "attendance_percentage": "65.1",
+        "total_score": "97.5",
+        "performance_category": "Excellent",
+        "student_id": "6",
+        "class_participation": "5"
+    },
+    {
+        "weekly_self_study_hours": "18.3",
+        "grade": "A",
+        "attendance_percentage": "89.6",
+        "total_score": "96.5",
+        "performance_category": "Excellent",
+        "student_id": "187",
+        "class_participation": "6.7"
+    },
+    {
+        "weekly_self_study_hours": "17.1",
+        "grade": "A",
+        "attendance_percentage": "76.4",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "155",
+        "class_participation": "3.3"
+    },
+    {
+        "weekly_self_study_hours": "8.4",
+        "grade": "B",
+        "attendance_percentage": "87.1",
+        "total_score": "70.2",
+        "performance_category": "Average",
+        "student_id": "206",
+        "class_participation": "8.2"
+    },
+    {
+        "weekly_self_study_hours": "13.7",
+        "grade": "B",
+        "attendance_percentage": "89.6",
+        "total_score": "81.9",
+        "performance_category": "Good",
+        "student_id": "62",
+        "class_participation": "5.5"
+    },
+    {
+        "weekly_self_study_hours": "16.8",
+        "grade": "A",
+        "attendance_percentage": "74.8",
+        "total_score": "90.2",
+        "performance_category": "Excellent",
+        "student_id": "151",
+        "class_participation": "6.2"
+    },
+    {
+        "weekly_self_study_hours": "13.9",
+        "grade": "B",
+        "attendance_percentage": "91.9",
+        "total_score": "83",
+        "performance_category": "Good",
+        "student_id": "105",
+        "class_participation": "9.5"
+    },
+    {
+        "weekly_self_study_hours": "21.4",
+        "grade": "A",
+        "attendance_percentage": "100",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "87",
+        "class_participation": "4.6"
+    },
+    {
+        "weekly_self_study_hours": "0",
+        "grade": "D",
+        "attendance_percentage": "86.4",
+        "total_score": "47.4",
+        "performance_category": "Poor",
+        "student_id": "75",
+        "class_participation": "6.8"
+    },
+    {
+        "weekly_self_study_hours": "20.8",
+        "grade": "A",
+        "attendance_percentage": "81.6",
+        "total_score": "97.5",
+        "performance_category": "Excellent",
+        "student_id": "76",
+        "class_participation": "4.4"
+    },
+    {
+        "weekly_self_study_hours": "17.1",
+        "grade": "C",
+        "attendance_percentage": "76.7",
+        "total_score": "67.3",
+        "performance_category": "Average",
+        "student_id": "97",
+        "class_participation": "7.6"
+    },
+    {
+        "weekly_self_study_hours": "11.4",
+        "grade": "C",
+        "attendance_percentage": "83.4",
+        "total_score": "62.3",
+        "performance_category": "Average",
+        "student_id": "84",
+        "class_participation": "8.3"
+    },
+    {
+        "weekly_self_study_hours": "21.8",
+        "grade": "A",
+        "attendance_percentage": "94.7",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "60",
+        "class_participation": "6"
+    },
+    {
+        "weekly_self_study_hours": "3.7",
+        "grade": "C",
+        "attendance_percentage": "71.7",
+        "total_score": "58.2",
+        "performance_category": "Poor",
+        "student_id": "143",
+        "class_participation": "1.2"
+    },
+    {
+        "weekly_self_study_hours": "14.8",
+        "grade": "A",
+        "attendance_percentage": "97.8",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "117",
+        "class_participation": "5"
+    },
+    {
+        "weekly_self_study_hours": "16.3",
+        "grade": "A",
+        "attendance_percentage": "100",
+        "total_score": "87.9",
+        "performance_category": "Good",
+        "student_id": "144",
+        "class_participation": "5.7"
+    },
+    {
+        "weekly_self_study_hours": "5.8",
+        "grade": "C",
+        "attendance_percentage": "69.8",
+        "total_score": "62.3",
+        "performance_category": "Average",
+        "student_id": "148",
+        "class_participation": "9.7"
+    },
+    {
+        "weekly_self_study_hours": "11.6",
+        "grade": "B",
+        "attendance_percentage": "80.9",
+        "total_score": "71.2",
+        "performance_category": "Average",
+        "student_id": "61",
+        "class_participation": "2.7"
+    },
+    {
+        "weekly_self_study_hours": "1.3",
+        "grade": "D",
+        "attendance_percentage": "92.9",
+        "total_score": "50.1",
+        "performance_category": "Poor",
+        "student_id": "38",
+        "class_participation": "8.6"
+    },
+    {
+        "weekly_self_study_hours": "17.6",
+        "grade": "A",
+        "attendance_percentage": "83.9",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "28",
+        "class_participation": "8.9"
+    },
+    {
+        "weekly_self_study_hours": "11.3",
+        "grade": "C",
+        "attendance_percentage": "80.9",
+        "total_score": "69.2",
+        "performance_category": "Average",
+        "student_id": "89",
+        "class_participation": "4.2"
+    },
+    {
+        "weekly_self_study_hours": "32.2",
+        "grade": "A",
+        "attendance_percentage": "84.4",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "114",
+        "class_participation": "4.9"
+    },
+    {
+        "weekly_self_study_hours": "12.7",
+        "grade": "A",
+        "attendance_percentage": "95.9",
+        "total_score": "86.6",
+        "performance_category": "Good",
+        "student_id": "94",
+        "class_participation": "6.3"
+    },
+    {
+        "weekly_self_study_hours": "16.8",
+        "grade": "B",
+        "attendance_percentage": "95.7",
+        "total_score": "73.1",
+        "performance_category": "Average",
+        "student_id": "98",
+        "class_participation": "5.3"
+    },
+    {
+        "weekly_self_study_hours": "21",
+        "grade": "A",
+        "attendance_percentage": "79.3",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "192",
+        "class_participation": "6.2"
+    },
+    {
+        "weekly_self_study_hours": "10.3",
+        "grade": "A",
+        "attendance_percentage": "90.3",
+        "total_score": "92.7",
+        "performance_category": "Excellent",
+        "student_id": "53",
+        "class_participation": "6"
+    },
+    {
+        "weekly_self_study_hours": "9.6",
+        "grade": "B",
+        "attendance_percentage": "82.6",
+        "total_score": "83",
+        "performance_category": "Good",
+        "student_id": "217",
+        "class_participation": "6"
+    },
+    {
+        "weekly_self_study_hours": "16.5",
+        "grade": "A",
+        "attendance_percentage": "99.4",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "232",
+        "class_participation": "6.7"
+    },
+    {
+        "weekly_self_study_hours": "11.5",
+        "grade": "D",
+        "attendance_percentage": "83.8",
+        "total_score": "54.7",
+        "performance_category": "Poor",
+        "student_id": "130",
+        "class_participation": "3.1"
+    },
+    {
+        "weekly_self_study_hours": "18.6",
+        "grade": "B",
+        "attendance_percentage": "93.9",
+        "total_score": "83.7",
+        "performance_category": "Good",
+        "student_id": "208",
+        "class_participation": "2.5"
+    },
+    {
+        "weekly_self_study_hours": "17.5",
+        "grade": "B",
+        "attendance_percentage": "64.4",
+        "total_score": "79.5",
+        "performance_category": "Good",
+        "student_id": "82",
+        "class_participation": "6.4"
+    },
+    {
+        "weekly_self_study_hours": "9.5",
+        "grade": "B",
+        "attendance_percentage": "79.3",
+        "total_score": "81.9",
+        "performance_category": "Good",
+        "student_id": "137",
+        "class_participation": "3.6"
+    },
+    {
+        "weekly_self_study_hours": "15.4",
+        "grade": "B",
+        "attendance_percentage": "96.3",
+        "total_score": "78.9",
+        "performance_category": "Good",
+        "student_id": "113",
+        "class_participation": "5.7"
+    },
+    {
+        "weekly_self_study_hours": "13",
+        "grade": "A",
+        "attendance_percentage": "75",
+        "total_score": "89.2",
+        "performance_category": "Good",
+        "student_id": "30",
+        "class_participation": "5.7"
+    },
+    {
+        "weekly_self_study_hours": "20.8",
+        "grade": "A",
+        "attendance_percentage": "85.2",
+        "total_score": "97.4",
+        "performance_category": "Excellent",
+        "student_id": "35",
+        "class_participation": "7.7"
+    },
+    {
+        "weekly_self_study_hours": "12.3",
+        "grade": "A",
+        "attendance_percentage": "84.6",
+        "total_score": "91",
+        "performance_category": "Excellent",
+        "student_id": "52",
+        "class_participation": "6.8"
+    },
+    {
+        "weekly_self_study_hours": "5",
+        "grade": "C",
+        "attendance_percentage": "74.2",
+        "total_score": "58.7",
+        "performance_category": "Poor",
+        "student_id": "24",
+        "class_participation": "5"
+    },
+    {
+        "weekly_self_study_hours": "22.9",
+        "grade": "A",
+        "attendance_percentage": "79.5",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "212",
+        "class_participation": "5.2"
+    },
+    {
+        "weekly_self_study_hours": "16.8",
+        "grade": "A",
+        "attendance_percentage": "100",
+        "total_score": "86.2",
+        "performance_category": "Good",
+        "student_id": "145",
+        "class_participation": "7.8"
+    },
+    {
+        "weekly_self_study_hours": "28.2",
+        "grade": "A",
+        "attendance_percentage": "97.9",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "107",
+        "class_participation": "6.3"
+    },
+    {
+        "weekly_self_study_hours": "20.5",
+        "grade": "A",
+        "attendance_percentage": "94.3",
+        "total_score": "86.1",
+        "performance_category": "Good",
+        "student_id": "146",
+        "class_participation": "9.7"
+    },
+    {
+        "weekly_self_study_hours": "13.1",
+        "grade": "A",
+        "attendance_percentage": "79.1",
+        "total_score": "92.9",
+        "performance_category": "Excellent",
+        "student_id": "179",
+        "class_participation": "4.8"
+    },
+    {
+        "weekly_self_study_hours": "8.8",
+        "grade": "C",
+        "attendance_percentage": "95",
+        "total_score": "63.2",
+        "performance_category": "Average",
+        "student_id": "171",
+        "class_participation": "7.2"
+    },
+    {
+        "weekly_self_study_hours": "17.5",
+        "grade": "A",
+        "attendance_percentage": "96.8",
+        "total_score": "85.9",
+        "performance_category": "Good",
+        "student_id": "201",
+        "class_participation": "8.7"
+    },
+    {
+        "weekly_self_study_hours": "15.6",
+        "grade": "A",
+        "attendance_percentage": "90.1",
+        "total_score": "90.8",
+        "performance_category": "Excellent",
+        "student_id": "77",
+        "class_participation": "7.7"
+    },
+    {
+        "weekly_self_study_hours": "15.7",
+        "grade": "A",
+        "attendance_percentage": "74.6",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "91",
+        "class_participation": "3.3"
+    },
+    {
+        "weekly_self_study_hours": "13.5",
+        "grade": "B",
+        "attendance_percentage": "69.7",
+        "total_score": "81",
+        "performance_category": "Good",
+        "student_id": "81",
+        "class_participation": "5.5"
+    },
+    {
+        "weekly_self_study_hours": "17.3",
+        "grade": "A",
+        "attendance_percentage": "64.7",
+        "total_score": "98.4",
+        "performance_category": "Excellent",
+        "student_id": "88",
+        "class_participation": "8.9"
+    },
+    {
+        "weekly_self_study_hours": "14.5",
+        "grade": "B",
+        "attendance_percentage": "79.3",
+        "total_score": "75.6",
+        "performance_category": "Good",
+        "student_id": "173",
+        "class_participation": "8.1"
+    },
+    {
+        "weekly_self_study_hours": "6.4",
+        "grade": "D",
+        "attendance_percentage": "84.1",
+        "total_score": "54.8",
+        "performance_category": "Poor",
+        "student_id": "140",
+        "class_participation": "4.8"
+    },
+    {
+        "weekly_self_study_hours": "10.4",
+        "grade": "A",
+        "attendance_percentage": "95.9",
+        "total_score": "85.8",
+        "performance_category": "Good",
+        "student_id": "234",
+        "class_participation": "6.3"
+    },
+    {
+        "weekly_self_study_hours": "6.9",
+        "grade": "C",
+        "attendance_percentage": "73.6",
+        "total_score": "68.4",
+        "performance_category": "Average",
+        "student_id": "27",
+        "class_participation": "6.1"
+    },
+    {
+        "weekly_self_study_hours": "4.8",
+        "grade": "B",
+        "attendance_percentage": "79.9",
+        "total_score": "73.6",
+        "performance_category": "Average",
+        "student_id": "96",
+        "class_participation": "4.2"
+    },
+    {
+        "weekly_self_study_hours": "3.7",
+        "grade": "C",
+        "attendance_percentage": "100",
+        "total_score": "63.1",
+        "performance_category": "Average",
+        "student_id": "224",
+        "class_participation": "5"
+    },
+    {
+        "weekly_self_study_hours": "15.5",
+        "grade": "A",
+        "attendance_percentage": "80.1",
+        "total_score": "86.8",
+        "performance_category": "Good",
+        "student_id": "132",
+        "class_participation": "6.5"
+    },
+    {
+        "weekly_self_study_hours": "17.4",
+        "grade": "A",
+        "attendance_percentage": "70",
+        "total_score": "94.4",
+        "performance_category": "Excellent",
+        "student_id": "152",
+        "class_participation": "8.4"
+    },
+    {
+        "weekly_self_study_hours": "30.3",
+        "grade": "A",
+        "attendance_percentage": "75.7",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "126",
+        "class_participation": "1.1"
+    },
+    {
+        "weekly_self_study_hours": "11",
+        "grade": "B",
+        "attendance_percentage": "87",
+        "total_score": "72.6",
+        "performance_category": "Average",
+        "student_id": "128",
+        "class_participation": "5.5"
+    },
+    {
+        "weekly_self_study_hours": "10.4",
+        "grade": "B",
+        "attendance_percentage": "85.9",
+        "total_score": "81.2",
+        "performance_category": "Good",
+        "student_id": "239",
+        "class_participation": "4.1"
+    },
+    {
+        "weekly_self_study_hours": "17.5",
+        "grade": "A",
+        "attendance_percentage": "82.9",
+        "total_score": "93.2",
+        "performance_category": "Excellent",
+        "student_id": "71",
+        "class_participation": "5.2"
+    },
+    {
+        "weekly_self_study_hours": "23.1",
+        "grade": "A",
+        "attendance_percentage": "93.9",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "163",
+        "class_participation": "2.1"
+    },
+    {
+        "weekly_self_study_hours": "13.4",
+        "grade": "A",
+        "attendance_percentage": "81.9",
+        "total_score": "92",
+        "performance_category": "Excellent",
+        "student_id": "5",
+        "class_participation": "6.9"
+    },
+    {
+        "weekly_self_study_hours": "21.7",
+        "grade": "A",
+        "attendance_percentage": "74",
+        "total_score": "97.4",
+        "performance_category": "Excellent",
+        "student_id": "165",
+        "class_participation": "4.6"
+    },
+    {
+        "weekly_self_study_hours": "10.2",
+        "grade": "A",
+        "attendance_percentage": "88.5",
+        "total_score": "85.4",
+        "performance_category": "Good",
+        "student_id": "153",
+        "class_participation": "7.7"
+    },
+    {
+        "weekly_self_study_hours": "23",
+        "grade": "A",
+        "attendance_percentage": "99.6",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "119",
+        "class_participation": "7.8"
+    },
+    {
+        "weekly_self_study_hours": "25.7",
+        "grade": "A",
+        "attendance_percentage": "70.2",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "4",
+        "class_participation": "7"
+    },
+    {
+        "weekly_self_study_hours": "16.9",
+        "grade": "B",
+        "attendance_percentage": "84",
+        "total_score": "75.5",
+        "performance_category": "Good",
+        "student_id": "175",
+        "class_participation": "4.5"
+    },
+    {
+        "weekly_self_study_hours": "15.4",
+        "grade": "C",
+        "attendance_percentage": "97.2",
+        "total_score": "65.7",
+        "performance_category": "Average",
+        "student_id": "227",
+        "class_participation": "8.9"
+    },
+    {
+        "weekly_self_study_hours": "7",
+        "grade": "D",
+        "attendance_percentage": "78.7",
+        "total_score": "53.2",
+        "performance_category": "Poor",
+        "student_id": "200",
+        "class_participation": "5.2"
+    },
+    {
+        "weekly_self_study_hours": "12.9",
+        "grade": "A",
+        "attendance_percentage": "78.7",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "44",
+        "class_participation": "3.7"
+    },
+    {
+        "weekly_self_study_hours": "12.3",
+        "grade": "B",
+        "attendance_percentage": "70.9",
+        "total_score": "72",
+        "performance_category": "Average",
+        "student_id": "95",
+        "class_participation": "8.5"
+    },
+    {
+        "weekly_self_study_hours": "28",
+        "grade": "A",
+        "attendance_percentage": "89.2",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "32",
+        "class_participation": "6.5"
+    },
+    {
+        "weekly_self_study_hours": "20.2",
+        "grade": "A",
+        "attendance_percentage": "85.6",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "41",
+        "class_participation": "5.6"
+    },
+    {
+        "weekly_self_study_hours": "17.3",
+        "grade": "B",
+        "attendance_percentage": "93.8",
+        "total_score": "82.7",
+        "performance_category": "Good",
+        "student_id": "51",
+        "class_participation": "8.8"
+    },
+    {
+        "weekly_self_study_hours": "5.4",
+        "grade": "C",
+        "attendance_percentage": "78.4",
+        "total_score": "63",
+        "performance_category": "Average",
+        "student_id": "205",
+        "class_participation": "6.4"
+    },
+    {
+        "weekly_self_study_hours": "16.3",
+        "grade": "A",
+        "attendance_percentage": "70.2",
+        "total_score": "96",
+        "performance_category": "Excellent",
+        "student_id": "238",
+        "class_participation": "7.5"
+    },
+    {
+        "weekly_self_study_hours": "13.4",
+        "grade": "C",
+        "attendance_percentage": "91.1",
+        "total_score": "63.9",
+        "performance_category": "Average",
+        "student_id": "100",
+        "class_participation": "6"
+    },
+    {
+        "weekly_self_study_hours": "19.6",
+        "grade": "A",
+        "attendance_percentage": "82.6",
+        "total_score": "90.2",
+        "performance_category": "Excellent",
+        "student_id": "214",
+        "class_participation": "8.7"
+    },
+    {
+        "weekly_self_study_hours": "12.9",
+        "grade": "A",
+        "attendance_percentage": "80.4",
+        "total_score": "87.7",
+        "performance_category": "Good",
+        "student_id": "78",
+        "class_participation": "6"
+    },
+    {
+        "weekly_self_study_hours": "16.6",
+        "grade": "A",
+        "attendance_percentage": "81.2",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "154",
+        "class_participation": "4.8"
+    },
+    {
+        "weekly_self_study_hours": "11.6",
+        "grade": "B",
+        "attendance_percentage": "71.3",
+        "total_score": "70.6",
+        "performance_category": "Average",
+        "student_id": "219",
+        "class_participation": "1.9"
+    },
+    {
+        "weekly_self_study_hours": "20.8",
+        "grade": "A",
+        "attendance_percentage": "82",
+        "total_score": "89.5",
+        "performance_category": "Good",
+        "student_id": "176",
+        "class_participation": "7.2"
+    },
+    {
+        "weekly_self_study_hours": "15.4",
+        "grade": "A",
+        "attendance_percentage": "68.2",
+        "total_score": "99.8",
+        "performance_category": "Excellent",
+        "student_id": "199",
+        "class_participation": "9.3"
+    },
+    {
+        "weekly_self_study_hours": "25.3",
+        "grade": "A",
+        "attendance_percentage": "85",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "83",
+        "class_participation": "4.3"
+    },
+    {
+        "weekly_self_study_hours": "22",
+        "grade": "A",
+        "attendance_percentage": "85",
+        "total_score": "92.2",
+        "performance_category": "Excellent",
+        "student_id": "68",
+        "class_participation": "9.7"
+    },
+    {
+        "weekly_self_study_hours": "14.5",
+        "grade": "A",
+        "attendance_percentage": "81.9",
+        "total_score": "97.2",
+        "performance_category": "Excellent",
+        "student_id": "188",
+        "class_participation": "1.8"
+    },
+    {
+        "weekly_self_study_hours": "20.7",
+        "grade": "A",
+        "attendance_percentage": "85.8",
+        "total_score": "96.5",
+        "performance_category": "Excellent",
+        "student_id": "65",
+        "class_participation": "6.8"
+    },
+    {
+        "weekly_self_study_hours": "19.8",
+        "grade": "A",
+        "attendance_percentage": "83",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "223",
+        "class_participation": "4.6"
+    },
+    {
+        "weekly_self_study_hours": "7.6",
+        "grade": "B",
+        "attendance_percentage": "93",
+        "total_score": "71.9",
+        "performance_category": "Average",
+        "student_id": "34",
+        "class_participation": "6.2"
+    },
+    {
+        "weekly_self_study_hours": "5.1",
+        "grade": "B",
+        "attendance_percentage": "62.6",
+        "total_score": "72.9",
+        "performance_category": "Average",
+        "student_id": "101",
+        "class_participation": "8.3"
+    },
+    {
+        "weekly_self_study_hours": "15.5",
+        "grade": "B",
+        "attendance_percentage": "100",
+        "total_score": "76.3",
+        "performance_category": "Good",
+        "student_id": "23",
+        "class_participation": "8.5"
+    },
+    {
+        "weekly_self_study_hours": "28.1",
+        "grade": "A",
+        "attendance_percentage": "100",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "157",
+        "class_participation": "5.5"
+    },
+    {
+        "weekly_self_study_hours": "21.7",
+        "grade": "A",
+        "attendance_percentage": "98.3",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "213",
+        "class_participation": "7.1"
+    },
+    {
+        "weekly_self_study_hours": "31.2",
+        "grade": "A",
+        "attendance_percentage": "95.1",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "221",
+        "class_participation": "2.1"
+    },
+    {
+        "weekly_self_study_hours": "16.5",
+        "grade": "A",
+        "attendance_percentage": "100",
+        "total_score": "89",
+        "performance_category": "Good",
+        "student_id": "193",
+        "class_participation": "6.9"
+    },
+    {
+        "weekly_self_study_hours": "1.6",
+        "grade": "D",
+        "attendance_percentage": "97",
+        "total_score": "43.5",
+        "performance_category": "Poor",
+        "student_id": "111",
+        "class_participation": "5.3"
+    },
+    {
+        "weekly_self_study_hours": "12.8",
+        "grade": "A",
+        "attendance_percentage": "83.7",
+        "total_score": "91.9",
+        "performance_category": "Excellent",
+        "student_id": "58",
+        "class_participation": "4.9"
+    },
+    {
+        "weekly_self_study_hours": "10",
+        "grade": "C",
+        "attendance_percentage": "65.7",
+        "total_score": "69.5",
+        "performance_category": "Average",
+        "student_id": "229",
+        "class_participation": "10"
+    },
+    {
+        "weekly_self_study_hours": "18.6",
+        "grade": "A",
+        "attendance_percentage": "89",
+        "total_score": "98.1",
+        "performance_category": "Excellent",
+        "student_id": "209",
+        "class_participation": "2.7"
+    },
+    {
+        "weekly_self_study_hours": "9",
+        "grade": "B",
+        "attendance_percentage": "97.2",
+        "total_score": "84.7",
+        "performance_category": "Good",
+        "student_id": "182",
+        "class_participation": "4.7"
+    },
+    {
+        "weekly_self_study_hours": "19.4",
+        "grade": "A",
+        "attendance_percentage": "83.3",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "236",
+        "class_participation": "1.8"
+    },
+    {
+        "weekly_self_study_hours": "6.7",
+        "grade": "D",
+        "attendance_percentage": "89.3",
+        "total_score": "54.8",
+        "performance_category": "Poor",
+        "student_id": "159",
+        "class_participation": "4.4"
+    },
+    {
+        "weekly_self_study_hours": "25.2",
+        "grade": "A",
+        "attendance_percentage": "88",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "178",
+        "class_participation": "6"
+    },
+    {
+        "weekly_self_study_hours": "10",
+        "grade": "A",
+        "attendance_percentage": "83.4",
+        "total_score": "89.6",
+        "performance_category": "Good",
+        "student_id": "46",
+        "class_participation": "7.3"
+    },
+    {
+        "weekly_self_study_hours": "8.6",
+        "grade": "B",
+        "attendance_percentage": "100",
+        "total_score": "75.4",
+        "performance_category": "Good",
+        "student_id": "19",
+        "class_participation": "9"
+    },
+    {
+        "weekly_self_study_hours": "14.8",
+        "grade": "A",
+        "attendance_percentage": "75.1",
+        "total_score": "93.8",
+        "performance_category": "Excellent",
+        "student_id": "112",
+        "class_participation": "5.5"
+    },
+    {
+        "weekly_self_study_hours": "17.1",
+        "grade": "B",
+        "attendance_percentage": "82.5",
+        "total_score": "83.5",
+        "performance_category": "Good",
+        "student_id": "150",
+        "class_participation": "5.8"
+    },
+    {
+        "weekly_self_study_hours": "40",
+        "grade": "A",
+        "attendance_percentage": "68.1",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "210",
+        "class_participation": "6.7"
+    },
+    {
+        "weekly_self_study_hours": "15.8",
+        "grade": "A",
+        "attendance_percentage": "81.1",
+        "total_score": "97.2",
+        "performance_category": "Excellent",
+        "student_id": "26",
+        "class_participation": "5"
+    },
+    {
+        "weekly_self_study_hours": "18.3",
+        "grade": "B",
+        "attendance_percentage": "97",
+        "total_score": "79.6",
+        "performance_category": "Good",
+        "student_id": "158",
+        "class_participation": "6.1"
+    },
+    {
+        "weekly_self_study_hours": "22.2",
+        "grade": "A",
+        "attendance_percentage": "80.2",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "55",
+        "class_participation": "4.1"
+    },
+    {
+        "weekly_self_study_hours": "26.1",
+        "grade": "A",
+        "attendance_percentage": "81.8",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "7",
+        "class_participation": "5.9"
+    },
+    {
+        "weekly_self_study_hours": "18.4",
+        "grade": "A",
+        "attendance_percentage": "100",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "184",
+        "class_participation": "9.4"
+    },
+    {
+        "weekly_self_study_hours": "19",
+        "grade": "A",
+        "attendance_percentage": "88",
+        "total_score": "95.5",
+        "performance_category": "Excellent",
+        "student_id": "211",
+        "class_participation": "7.3"
+    },
+    {
+        "weekly_self_study_hours": "21.5",
+        "grade": "A",
+        "attendance_percentage": "84.1",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "56",
+        "class_participation": "7.7"
+    },
+    {
+        "weekly_self_study_hours": "22.6",
+        "grade": "A",
+        "attendance_percentage": "80.2",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "203",
+        "class_participation": "5"
+    },
+    {
+        "weekly_self_study_hours": "11.8",
+        "grade": "C",
+        "attendance_percentage": "82.3",
+        "total_score": "66.4",
+        "performance_category": "Average",
+        "student_id": "11",
+        "class_participation": "4.6"
+    },
+    {
+        "weekly_self_study_hours": "13.3",
+        "grade": "A",
+        "attendance_percentage": "80.9",
+        "total_score": "97.4",
+        "performance_category": "Excellent",
+        "student_id": "218",
+        "class_participation": "4.6"
+    },
+    {
+        "weekly_self_study_hours": "19.5",
+        "grade": "A",
+        "attendance_percentage": "86.3",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "3",
+        "class_participation": "5.3"
+    },
+    {
+        "weekly_self_study_hours": "10.5",
+        "grade": "B",
+        "attendance_percentage": "91.8",
+        "total_score": "78.8",
+        "performance_category": "Good",
+        "student_id": "70",
+        "class_participation": "3.8"
+    },
+    {
+        "weekly_self_study_hours": "4.4",
+        "grade": "D",
+        "attendance_percentage": "86.9",
+        "total_score": "52.2",
+        "performance_category": "Poor",
+        "student_id": "190",
+        "class_participation": "6.1"
+    },
+    {
+        "weekly_self_study_hours": "9.3",
+        "grade": "C",
+        "attendance_percentage": "69.7",
+        "total_score": "64.9",
+        "performance_category": "Average",
+        "student_id": "85",
+        "class_participation": "7.5"
+    },
+    {
+        "weekly_self_study_hours": "17.5",
+        "grade": "B",
+        "attendance_percentage": "83.1",
+        "total_score": "83.6",
+        "performance_category": "Good",
+        "student_id": "69",
+        "class_participation": "8.8"
+    },
+    {
+        "weekly_self_study_hours": "9.3",
+        "grade": "B",
+        "attendance_percentage": "97",
+        "total_score": "75.8",
+        "performance_category": "Good",
+        "student_id": "164",
+        "class_participation": "4.9"
+    },
+    {
+        "weekly_self_study_hours": "5.1",
+        "grade": "C",
+        "attendance_percentage": "91.4",
+        "total_score": "57.9",
+        "performance_category": "Poor",
+        "student_id": "20",
+        "class_participation": "4.5"
+    },
+    {
+        "weekly_self_study_hours": "5.7",
+        "grade": "C",
+        "attendance_percentage": "93.4",
+        "total_score": "56.7",
+        "performance_category": "Poor",
+        "student_id": "39",
+        "class_participation": "8.3"
+    },
+    {
+        "weekly_self_study_hours": "4.7",
+        "grade": "C",
+        "attendance_percentage": "100",
+        "total_score": "55.9",
+        "performance_category": "Poor",
+        "student_id": "45",
+        "class_participation": "3.3"
+    },
+    {
+        "weekly_self_study_hours": "24.8",
+        "grade": "A",
+        "attendance_percentage": "80",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "123",
+        "class_participation": "6.6"
+    },
+    {
+        "weekly_self_study_hours": "5.2",
+        "grade": "B",
+        "attendance_percentage": "87.7",
+        "total_score": "74.1",
+        "performance_category": "Average",
+        "student_id": "124",
+        "class_participation": "6.9"
+    },
+    {
+        "weekly_self_study_hours": "8.2",
+        "grade": "B",
+        "attendance_percentage": "93.6",
+        "total_score": "72",
+        "performance_category": "Average",
+        "student_id": "161",
+        "class_participation": "6.8"
+    },
+    {
+        "weekly_self_study_hours": "19.4",
+        "grade": "A",
+        "attendance_percentage": "94.8",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "181",
+        "class_participation": "7.4"
+    },
+    {
+        "weekly_self_study_hours": "26",
+        "grade": "A",
+        "attendance_percentage": "88.5",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "74",
+        "class_participation": "9"
+    },
+    {
+        "weekly_self_study_hours": "16.5",
+        "grade": "A",
+        "attendance_percentage": "86.8",
+        "total_score": "99.5",
+        "performance_category": "Excellent",
+        "student_id": "37",
+        "class_participation": "4.6"
+    },
+    {
+        "weekly_self_study_hours": "10.1",
+        "grade": "B",
+        "attendance_percentage": "78.4",
+        "total_score": "79.7",
+        "performance_category": "Good",
+        "student_id": "93",
+        "class_participation": "4.9"
+    },
+    {
+        "weekly_self_study_hours": "19.6",
+        "grade": "A",
+        "attendance_percentage": "78.5",
+        "total_score": "93.2",
+        "performance_category": "Excellent",
+        "student_id": "160",
+        "class_participation": "10"
+    },
+    {
+        "weekly_self_study_hours": "10.8",
+        "grade": "C",
+        "attendance_percentage": "86.2",
+        "total_score": "63.6",
+        "performance_category": "Average",
+        "student_id": "29",
+        "class_participation": "3.4"
+    },
+    {
+        "weekly_self_study_hours": "11.5",
+        "grade": "A",
+        "attendance_percentage": "84.1",
+        "total_score": "93.3",
+        "performance_category": "Excellent",
+        "student_id": "86",
+        "class_participation": "4.5"
+    },
+    {
+        "weekly_self_study_hours": "25.3",
+        "grade": "A",
+        "attendance_percentage": "89.3",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "21",
+        "class_participation": "6.4"
+    },
+    {
+        "weekly_self_study_hours": "11.2",
+        "grade": "C",
+        "attendance_percentage": "96.1",
+        "total_score": "68.3",
+        "performance_category": "Average",
+        "student_id": "25",
+        "class_participation": "4.9"
+    },
+    {
+        "weekly_self_study_hours": "18.3",
+        "grade": "A",
+        "attendance_percentage": "97.3",
+        "total_score": "97.3",
+        "performance_category": "Excellent",
+        "student_id": "134",
+        "class_participation": "7.5"
+    },
+    {
+        "weekly_self_study_hours": "15.1",
+        "grade": "A",
+        "attendance_percentage": "63.3",
+        "total_score": "89.2",
+        "performance_category": "Good",
+        "student_id": "177",
+        "class_participation": "4.8"
+    },
+    {
+        "weekly_self_study_hours": "19.1",
+        "grade": "B",
+        "attendance_percentage": "79.9",
+        "total_score": "74.2",
+        "performance_category": "Average",
+        "student_id": "125",
+        "class_participation": "3.6"
+    },
+    {
+        "weekly_self_study_hours": "13.4",
+        "grade": "B",
+        "attendance_percentage": "100",
+        "total_score": "75.9",
+        "performance_category": "Good",
+        "student_id": "185",
+        "class_participation": "6.4"
+    },
+    {
+        "weekly_self_study_hours": "30",
+        "grade": "A",
+        "attendance_percentage": "81.2",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "235",
+        "class_participation": "8.1"
+    },
+    {
+        "weekly_self_study_hours": "11.7",
+        "grade": "B",
+        "attendance_percentage": "75.9",
+        "total_score": "72.5",
+        "performance_category": "Average",
+        "student_id": "12",
+        "class_participation": "7.6"
+    },
+    {
+        "weekly_self_study_hours": "7.9",
+        "grade": "C",
+        "attendance_percentage": "85.9",
+        "total_score": "63",
+        "performance_category": "Average",
+        "student_id": "17",
+        "class_participation": "7.7"
+    },
+    {
+        "weekly_self_study_hours": "14.5",
+        "grade": "B",
+        "attendance_percentage": "73.7",
+        "total_score": "80.4",
+        "performance_category": "Good",
+        "student_id": "67",
+        "class_participation": "7.1"
+    },
+    {
+        "weekly_self_study_hours": "18.8",
+        "grade": "B",
+        "attendance_percentage": "67.6",
+        "total_score": "80.3",
+        "performance_category": "Good",
+        "student_id": "10",
+        "class_participation": "6"
+    },
+    {
+        "weekly_self_study_hours": "22.6",
+        "grade": "A",
+        "attendance_percentage": "73.5",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "226",
+        "class_participation": "4.8"
+    },
+    {
+        "weekly_self_study_hours": "9.1",
+        "grade": "B",
+        "attendance_percentage": "81.4",
+        "total_score": "76.9",
+        "performance_category": "Good",
+        "student_id": "57",
+        "class_participation": "5.4"
+    },
+    {
+        "weekly_self_study_hours": "11.8",
+        "grade": "B",
+        "attendance_percentage": "89.5",
+        "total_score": "78.7",
+        "performance_category": "Good",
+        "student_id": "47",
+        "class_participation": "3.3"
+    },
+    {
+        "weekly_self_study_hours": "17.7",
+        "grade": "A",
+        "attendance_percentage": "89",
+        "total_score": "92.5",
+        "performance_category": "Excellent",
+        "student_id": "196",
+        "class_participation": "4.9"
+    },
+    {
+        "weekly_self_study_hours": "8.8",
+        "grade": "C",
+        "attendance_percentage": "93.2",
+        "total_score": "65.4",
+        "performance_category": "Average",
+        "student_id": "197",
+        "class_participation": "4.6"
+    },
+    {
+        "weekly_self_study_hours": "12.8",
+        "grade": "A",
+        "attendance_percentage": "89.1",
+        "total_score": "87.9",
+        "performance_category": "Good",
+        "student_id": "215",
+        "class_participation": "2.9"
+    },
+    {
+        "weekly_self_study_hours": "2.9",
+        "grade": "D",
+        "attendance_percentage": "90.7",
+        "total_score": "52.1",
+        "performance_category": "Poor",
+        "student_id": "15",
+        "class_participation": "5.4"
+    },
+    {
+        "weekly_self_study_hours": "18.7",
+        "grade": "A",
+        "attendance_percentage": "92.8",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "149",
+        "class_participation": "10"
+    },
+    {
+        "weekly_self_study_hours": "20.3",
+        "grade": "A",
+        "attendance_percentage": "81.4",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "216",
+        "class_participation": "7.1"
+    },
+    {
+        "weekly_self_study_hours": "17.9",
+        "grade": "A",
+        "attendance_percentage": "78.1",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "166",
+        "class_participation": "6.8"
+    },
+    {
+        "weekly_self_study_hours": "16.2",
+        "grade": "A",
+        "attendance_percentage": "84.2",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "42",
+        "class_participation": "7"
+    },
+    {
+        "weekly_self_study_hours": "7.5",
+        "grade": "B",
+        "attendance_percentage": "85.6",
+        "total_score": "80.1",
+        "performance_category": "Good",
+        "student_id": "183",
+        "class_participation": "8.2"
+    },
+    {
+        "weekly_self_study_hours": "14.2",
+        "grade": "C",
+        "attendance_percentage": "76.5",
+        "total_score": "63.6",
+        "performance_category": "Average",
+        "student_id": "43",
+        "class_participation": "6.1"
+    },
+    {
+        "weekly_self_study_hours": "1.6",
+        "grade": "C",
+        "attendance_percentage": "92.1",
+        "total_score": "60.9",
+        "performance_category": "Average",
+        "student_id": "14",
+        "class_participation": "5.7"
+    },
+    {
+        "weekly_self_study_hours": "25.8",
+        "grade": "A",
+        "attendance_percentage": "82.6",
+        "total_score": "100",
+        "performance_category": "Excellent",
+        "student_id": "72",
+        "class_participation": "7"
+    },
+    {
+        "weekly_self_study_hours": "11.7",
+        "grade": "A",
+        "attendance_percentage": "90.1",
+        "total_score": "87.4",
+        "performance_category": "Good",
+        "student_id": "225",
+        "class_participation": "9.4"
+    },
+    {
+        "weekly_self_study_hours": "8.6",
+        "grade": "B",
+        "attendance_percentage": "88.4",
+        "total_score": "76.7",
+        "performance_category": "Good",
+        "student_id": "122",
+        "class_participation": "6.7"
+    },
+    {
+        "weekly_self_study_hours": "20.5",
+        "grade": "A",
+        "attendance_percentage": "96.7",
+        "total_score": "95.8",
+        "performance_category": "Excellent",
+        "student_id": "162",
+        "class_participation": "5.5"
+    },
+    {
+        "weekly_self_study_hours": "15.3",
+        "grade": "B",
+        "attendance_percentage": "76.5",
+        "total_score": "81.5",
+        "performance_category": "Good",
+        "student_id": "233",
+        "class_participation": "6.7"
+    },
+    {
+        "weekly_self_study_hours": "14.7",
+        "grade": "B",
+        "attendance_percentage": "70.6",
+        "total_score": "84.5",
+        "performance_category": "Good",
+        "student_id": "73",
+        "class_participation": "3.8"
+    },
+    {
+        "weekly_self_study_hours": "15.6",
+        "grade": "B",
+        "attendance_percentage": "85.3",
+        "total_score": "83.7",
+        "performance_category": "Good",
+        "student_id": "220",
+        "class_participation": "7.6"
+    },
+    {
+        "weekly_self_study_hours": "8.1",
+        "grade": "B",
+        "attendance_percentage": "88.9",
+        "total_score": "74",
+        "performance_category": "Average",
+        "student_id": "127",
+        "class_participation": "4.5"
+    },
+    {
+        "weekly_self_study_hours": "15.7",
+        "grade": "B",
+        "attendance_percentage": "84.9",
+        "total_score": "74.8",
+        "performance_category": "Average",
+        "student_id": "129",
+        "class_participation": "6.5"
+    },
+    {
+        "weekly_self_study_hours": "12.7",
+        "grade": "B",
+        "attendance_percentage": "78.3",
+        "total_score": "78.7",
+        "performance_category": "Good",
+        "student_id": "138",
+        "class_participation": "10"
+    }
+]
